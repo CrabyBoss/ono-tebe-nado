@@ -1,1 +1,1 @@
-git@github.com:CrabyBoss/ono-tebe-nado.git
+https://github.com/CrabyBoss/ono-tebe-nado.git
