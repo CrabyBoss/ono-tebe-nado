@@ -140,6 +140,7 @@
   line-height: 28px;
   text-align: center;
   text-transform: uppercase;
+  word-spacing: 18px;
 }
 
 .bet-button {
@@ -155,10 +156,6 @@
   text-transform: uppercase;
   background-color: transparent;
   cursor: pointer;
-}
-
-.word__spasing {
-  word-spacing: 18px;
 }
 
 .lots {
